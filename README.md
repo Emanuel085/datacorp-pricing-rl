@@ -67,4 +67,4 @@ O agente passou por um treinamento de **2.000 episódios** utilizando uma estrat
 
 1. Clone este repositório:
    ```bash
-   git clone [https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git](https://github.com/SEU_USUARIO/NOME_DO_REPOSITORIO.git)
+   git clone https://github.com/Emanuel085/datacorp-pricing-rl.git
